@@ -1,4 +1,4 @@
-# Mini Projetos Java
+# Mini Projetos Java Básico
 
 Este repositório reúne **mini projetos em Java**, desenvolvidos para **iniciantes**, com foco em lógica de programação, manipulação de strings e operações básicas.  
 Cada projeto é independente e tem um propósito simples, ideal para praticar Java e entender estruturas básicas de programação.
